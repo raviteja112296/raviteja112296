@@ -1,6 +1,7 @@
 ### 👋 Hey, I'm P Raviteja
 
 🚀 **Software Developer** building high-performance mobile ecosystems and modern web panels. I specialize in turning Figma designs into production-ready code.
+//[📄 View My Resume](https://github.com/akbarbasil/akbarbasil/blob/main/basil_resume.pdf)
 
 <a href="https://raviteja-dev.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/View_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View My Portfolio"/>
