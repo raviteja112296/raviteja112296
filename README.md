@@ -23,4 +23,4 @@
 - 💻 Currently architecting the **ambania2z** service discovery app from scratch.
 - 🚗 Previously built the full **MokshaRide** ecosystem (User, Driver, and Admin platforms).
 - 🌱 Always learning new technologies and focusing on real-time backend integrations.
-- 📫 How to reach me: <a href="www.linkedin.com/in/ravi-raviteja" target="_blank">Message me on LinkedIn</a>
+- 📫 How to reach me: [Message me on LinkedIn](https://www.linkedin.com/in/ravi-raviteja)
